@@ -11,3 +11,7 @@ No meu design resolvi os seguintes problemas:
 - Melhorei o espaçamento entre o conteúdo, pois anteriormente os parágrafos estavam muito juntos.
 - Troquei a cor de fundo do botão pata torna-lo mais "compatível" com as cores ao redor.
 - Removi o "Clique para", pois isso se torna ruído em leitores de tela. Usuários deficientes visuais já são informados quando há um botão automaticamente.
+
+## Segundo Exercício
+
+![image](midas-2/5-add-visit-section.png)
